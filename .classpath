@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="OpenGlWrapper"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="terrain"/>
+	<classpathentry kind="src" path="water"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/Workspace/Java Development/_Java Dependencies/lwjgl-2.9.3/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/Workspace/Java Development/_Java Dependencies/lwjgl-2.9.3/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Steven/Documents/Workspace/Java Development/_Java Dependencies/lwjgl-2.9.3/native/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
